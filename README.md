@@ -35,8 +35,9 @@ This application has dependencies in [MASK RCNN](https://github.com/matterport/M
 
 ## Deep Learning Object Detection for Ballistic Experimental Analysis
 This application uses a pre-trained model to recognize bullets using **MASK RCNN**.  Even when the masking property of the algorithm is a good advantage to the application for this stage was not used, instead of that just the location (bounding box) was implemented. Nevertheles, further improvements will include the masking technique, which was the main reason why MASK RCNN was the framework choosen
-
-![alt text](/images/detection_bullet.JPG)
+<p align="center">
+<img src="/images/detection_bullet.JPG" width="500">
+</p>
 
 ## APPLICATION
 The application create folders and save the files in each step to make easier the analysis and adjustments in the parameters. At then , the files tree follow the next arrangement.
@@ -54,14 +55,21 @@ The application create folders and save the files in each step to make easier th
   * Relative velocity.png
   * Yaw Angle.png
 ### Video Output
-![](images/annotated_gif.gif)
+<p align="center">
+<img src="images/annotated_gif.gif" width="500">
+</p>
 
 ### Plots
-<img src="images/Relative_Velocity.png" width="48">
-![alt text](/images/Yaw_Angle.png)
+<p align="center">
+<img src="images/Relative_Velocity.png" width="500">
+<img src="/images/Yaw_Angle.png" width="500">
+</p>
+
 ## FUTURE DEPLOYMENT
-![alt text](images/GUI1.png)
-![alt text](images/GUI2.png)
-![alt text](images/GUI3.png)
-![alt text](images/GUI4.png)
-![alt text](images/GUI5.png)
+<p align="center">
+<img src="images/GUI1.png" width="350">
+<img src="images/GUI2.png" width="350">
+<img src="images/GUI3.png" width="350">
+<img src="images/GUI4.png" width="350">
+<img src="images/GUI5.png" width="350">
+</p>
