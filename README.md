@@ -7,7 +7,7 @@ This first stage of the code is developed in **Jupyter Notebooks**, due the flex
 * Predict Bullet Locations.
    * Creation of ROI Matrix (X,Y,HEIGHT,WIDTH) of each frame values.
 * ROI Adjustment
-   * Creation of Data_Analysis matrix.(Time,X,Y,Width,Height,Length,Cx,Angle,Distance Traveled,Relative Velocity,Total velocity)
+   * Creation of Data_Analysis matrix.(Time,X,Y,W,H,L,Cx,Angle,Distance Traveled,Relative Velocity,Total Velocity)
 
 ## SETUP FILES
 
