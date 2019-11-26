@@ -28,10 +28,12 @@ This first stage of the code is developed in **Jupyter Notebooks**, due the flex
 ## SETUP FILES
 * Clone or Download this repository.
 * Creating Environment
+
 The first recomended step is to create an environment for this application.The file with the dependencies is given as ''ballisticanalysis.txt''
 Navigate to the main folder using the command prompt and to create the environment (in anaconda),use the following instruction:
   conda env create --file ballisticanalysis.txt
 * Clone and Install MASK RCNN dependency
+
 This application has dependencies in [MASK RCNN](https://github.com/matterport/Mask_RCNN) repository.Please go there and follow the steps to clon the repository and install the library.
 
 ## Deep Learning Object Detection for Ballistic Experimental Analysis
