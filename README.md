@@ -54,7 +54,7 @@ The application create folders and save the files in each step to make easier th
   * Relative velocity.png
   * Yaw Angle.png
 ### Video Output
-![](name-of-giphy.gif)
+![](images/annotated_gif.gif)
 
 ### Plots
 ![alt text](images/Relative Velocity.PNG)
