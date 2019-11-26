@@ -67,9 +67,9 @@ The application create folders and save the files in each step to make easier th
 
 ## FUTURE DEPLOYMENT
 <p align="center">
-<img src="images/GUI1.png" width="350">
-<img src="images/GUI2.png" width="350">
-<img src="images/GUI3.png" width="350">
-<img src="images/GUI4.png" width="350">
-<img src="images/GUI5.png" width="350">
+<img src="images/GUI1.png" width="400">
+<img src="images/GUI2.png" width="400">
+<img src="images/GUI3.png" width="400">
+<img src="images/GUI4.png" width="400">
+<img src="images/GUI5.png" width="400">
 </p>
