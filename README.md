@@ -41,12 +41,12 @@ This application uses a pre-trained model to recognize bullets using **MASK RCNN
 ## APPLICATION
 The application create folders and save the files in each step to make easier the analysis and adjustments in the parameters. At then , the files tree follow the next arrangement.
 * Project_Bullet
-  * 1_Frames_Output
-  * 2_Roi_Output
-  * 3_Mask_Output
-  * 4_Contours_Output
-  * 5_Drew_Output
-  * 6_Annotated
+    * 1_Frames_Output
+    * 2_Roi_Output
+    * 3_Mask_Output
+    * 4_Contours_Output
+    * 5_Drew_Output
+    * 6_Annotated
   * Annotated_video.mp4
   * data_analysis.csv
   * roi_matrix_predicted.csv
@@ -54,6 +54,8 @@ The application create folders and save the files in each step to make easier th
   * Relative velocity.png
   * Yaw Angle.png
 ### Video Output
+![](name-of-giphy.gif)
+
 ### Plots
 ![alt text](images/Relative Velocity.PNG)
 #![alt text](/images/Yaw Angle.PNG)
