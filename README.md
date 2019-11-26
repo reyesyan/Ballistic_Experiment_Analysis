@@ -37,7 +37,7 @@ Navigate to the main folder using the command prompt and to create the environme
 This application has dependencies in [MASK RCNN](https://github.com/matterport/Mask_RCNN) repository.Please go there and follow the steps to clon the repository and install the library.
 
 ## Deep Learning Object Detection for Ballistic Experimental Analysis
-This application uses a pre-trained model to recognize bullets using **MASK RCNN**.  Even when the masking property of the algorithm is a good advantage to the application for this stage was not used, instead of that just the location (bounding box) prediction was implemented. Nevertheles, further improvements will include the masking technique, which was the main reason why MASK RCNN was the framework choosen.
+This application uses a pre-trained model to recognize bullets using **MASK RCNN**.  Even when the masking property of the algorithm is a good advantage to the application was not used at this stage , instead of that just the location (bounding box) prediction was implemented. Nevertheles, further improvements will include the masking technique, which was the main reason why MASK RCNN was the framework choosen.
 <p align="center">
 <img src="/images/detection_bullet.JPG" width="300">
 </p>
