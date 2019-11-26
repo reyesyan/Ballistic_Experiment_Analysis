@@ -8,6 +8,18 @@ This first stage of the code is developed in **Jupyter Notebooks**, due the flex
    * Creation of ROI Matrix (X,Y,HEIGHT,WIDTH) of each frame values.
 * ROI Adjustment
    * Creation of Data_Analysis matrix.(Time,X,Y,W,H,L,Cx,Angle,Distance Traveled,Relative Velocity,Total Velocity)
+* Filtering Images
+   * Gaussian Blur
+  * Bilateral Blur
+  * Bright Correction
+  * Canny Detection
+  * Gradient 
+  * Dilating
+  * Clossing
+  * Erosion
+  * Smoothing
+  * Threshoold
+* Finding Contours, Centroid and Area
 
 ## SETUP FILES
 
@@ -16,3 +28,4 @@ The training of the model to recognize bullets was done using **MASK RCNN**. To 
 [MASK RCNN](https://github.com/matterport/Mask_RCNN)
 
 ![alt text](/images/detection_bullet.JPG)
+## MASK RCNN
