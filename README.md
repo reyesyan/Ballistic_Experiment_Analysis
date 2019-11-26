@@ -9,7 +9,7 @@ This first stage of the code is developed in **Jupyter Notebooks**, due the flex
 * ROI Adjustment
    * Creation of Data_Analysis matrix.(Time,X,Y,W,H,L,Cx,Angle,Distance Traveled,Relative Velocity,Total Velocity)
 * Filtering Images
-   * Gaussian Blur
+  * Gaussian Blur
   * Bilateral Blur
   * Bright Correction
   * Canny Detection
@@ -40,6 +40,20 @@ This application uses a pre-trained model to recognize bullets using **MASK RCNN
 
 ## APPLICATION
 The application create folders and save the files in each step to make easier the analysis and adjustments in the parameters. At then , the files tree follow the next arrangement.
+* Project_Bullet
+  * 1_Frames_Output
+  * 2_Roi_Output
+  * 3_Mask_Output
+  * 4_Contours_Output
+  * 5_Drew_Output
+  * 6_Annotated
+  * Annotated_video.mp4
+  * data_analysis.csv
+  * roi_matrix_predicted.csv
+  * timing_analysis.csv
+  * Relative velocity.png
+  * Yaw Angle.png
+### Video Output
+### Plots
+![alt text](/images/detection_bullet.JPG)
 
-### Extracting Images from video
-### Predict Bullet Locations
