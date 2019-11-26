@@ -55,5 +55,6 @@ The application create folders and save the files in each step to make easier th
   * Yaw Angle.png
 ### Video Output
 ### Plots
-![alt text](/images/detection_bullet.JPG)
+![alt text](/images/Relative Velocity.png)
+![alt text](/images/Yaw Angle.png)
 
