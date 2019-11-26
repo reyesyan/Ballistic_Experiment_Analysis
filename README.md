@@ -1,4 +1,4 @@
-# Ballistic_Experiment_Analysis
+# Ballistic Experiment Analysis
 This first stage of the code is developed in **Jupyter Notebooks**, due the flexibility and ease of management. The program uses a trained model to recognize and locate bullets through frames and further image analysis is done to extract location, inclination and derive velocities and angle. The aim of this program is to help the researchers in the areas of impact dynamics to do faster analysis.
 
 * Checking MASK RCNN dependency
@@ -25,10 +25,21 @@ This first stage of the code is developed in **Jupyter Notebooks**, due the flex
 * Video annotated creation
 * Plotting Results
 ## SETUP FILES
+* Clone or Download this repository.
+* Creating Environment
+The first recomended step is to create an environment for this application.The file with the dependencies is given as ''ballisticanalysis.txt''
+Navigate to the main folder using the command prompt and to create the environment (in anaconda) , use the following instruction.
+  conda env create --file ballisticanalysis.txt
+* Clone and Install MASK RCNN dependency
+This application has dependencies in [MASK RCNN](https://github.com/matterport/Mask_RCNN) repository.Please go there and follow the steps to clon the repository and install the library.
 
-## MASK RCNN
-The training of the model to recognize bullets was done using **MASK RCNN**. To use this application is necessary to also clon the **MASK RCNN** repository. Even when the masking property of the algorithm is a good advantage to the application, for this stage was not used, instead of that just the location (bounding box) was implemented. Nevertheles, further improvements will include the masking technique, which was the main reasons why MASK RCNN was choosen.
-[MASK RCNN](https://github.com/matterport/Mask_RCNN)
+## Deep Learning Object Detection for Ballistic Experimental Analysis
+This application uses a pre-trained model to recognize bullets using **MASK RCNN**.  Even when the masking property of the algorithm is a good advantage to the application for this stage was not used, instead of that just the location (bounding box) was implemented. Nevertheles, further improvements will include the masking technique, which was the main reason why MASK RCNN was the framework choosen
 
 ![alt text](/images/detection_bullet.JPG)
-## MASK RCNN
+
+## APPLICATION
+The application create folders and save the files in each step to make easier the analysis and adjustments in the parameters. At then , the files tree follow the next arrangement.
+
+### Extracting Images from video
+### Predict Bullet Locations
