@@ -1,6 +1,6 @@
 # Ballistic Experiment Analysis
 This first stage of the code is developed in **Jupyter Notebooks**, due the flexibility and ease of management. The program uses a trained model to recognize and locate bullets through frames and further image analysis is done to extract location, inclination and derive velocities and angle. The aim of this program is to help the researchers in the areas of impact dynamics to do faster analysis.
-
+## Code Flow 
 * Checking MASK RCNN dependency
 * Extracting Images from video
    * Testing the model in one image
