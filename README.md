@@ -57,6 +57,5 @@ The application create folders and save the files in each step to make easier th
 ![](images/annotated_gif.gif)
 
 ### Plots
-![alt text](images/Relative Velocity.PNG)
-#![alt text](/images/Yaw Angle.PNG)
-
+![alt text](images/Relative_Velocity.png)
+![alt text](/images/Yaw_Angle.png)
