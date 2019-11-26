@@ -14,15 +14,3 @@ This first stage of the code is developed in **Jupyter Notebooks**, due the flex
 ## MASK RCNN
 The training of the model to recognize bullets was done using **MASK RCNN**. To use this application is necessary to also clon the **MASK RCNN** repository. Even when the masking property of the algorithm is a good advantage to the application, for this stage was not used, instead of that just the location (bounding box) was implemented. Nevertheles, further improvements will include the masking technique, which was the main reasons why MASK RCNN was choosen.
 [MASK RCNN](https://github.com/matterport/Mask_RCNN)
-
-
-
-## References 
-@misc{matterport_maskrcnn_2017,
-  title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
-  author={Waleed Abdulla},
-  year={2017},
-  publisher={Github},
-  journal={GitHub repository},
-  howpublished={\url{https://github.com/matterport/Mask_RCNN}},
-}
