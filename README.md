@@ -20,7 +20,10 @@ This first stage of the code is developed in **Jupyter Notebooks**, due the flex
   * Smoothing
   * Threshoold
 * Finding Contours, Centroid and Area
-
+* Calculation of velocities
+* Annotation of frames
+* Video annotated creation
+* Plotting Results
 ## SETUP FILES
 
 ## MASK RCNN
