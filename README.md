@@ -36,7 +36,7 @@ This application has dependencies in [MASK RCNN](https://github.com/matterport/M
 ## Deep Learning Object Detection for Ballistic Experimental Analysis
 This application uses a pre-trained model to recognize bullets using **MASK RCNN**.  Even when the masking property of the algorithm is a good advantage to the application for this stage was not used, instead of that just the location (bounding box) was implemented. Nevertheles, further improvements will include the masking technique, which was the main reason why MASK RCNN was the framework choosen
 <p align="center">
-<img src="/images/detection_bullet.JPG" width="500">
+<img src="/images/detection_bullet.JPG" width="300">
 </p>
 
 ## APPLICATION
@@ -67,9 +67,9 @@ The application create folders and save the files in each step to make easier th
 
 ## FUTURE DEPLOYMENT
 <p align="center">
-<img src="images/GUI1.png" width="400">
-<img src="images/GUI2.png" width="400">
-<img src="images/GUI3.png" width="400">
-<img src="images/GUI4.png" width="400">
-<img src="images/GUI5.png" width="400">
+<img src="images/GUI1.png" width="500">
+<img src="images/GUI2.png" width="500">
+<img src="images/GUI3.png" width="500">
+<img src="images/GUI4.png" width="500">
+<img src="images/GUI5.png" width="500">
 </p>
