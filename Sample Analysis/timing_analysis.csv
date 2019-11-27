@@ -1,0 +1,6 @@
+Step,Seconds
+Detection time,880.171915
+ROI calculation,0.104721
+ROI cropping,0.835764
+Image processing,0.815818
+Calculations,0.006982
