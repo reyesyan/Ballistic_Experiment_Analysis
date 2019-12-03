@@ -59,7 +59,7 @@ The application create folders and save the files in each step to make easier th
   * Yaw Angle.png
 ### Video Output
 <p align="center">
-<img src="images/annotated_gif.gif" width="500">
+<img src="images/annotated_g.gif" width="500">
 </p>
 
 ### Plots
