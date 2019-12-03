@@ -64,8 +64,10 @@ The application create folders and save the files in each step to make easier th
 
 ### Plots
 <p align="center">
-<img src="images/Relative_Velocity.png" width="500">
-<img src="/images/Yaw_Angle.png" width="500">
+<img src="images/Cx_Location.png" width="500">
+  <img src="images/Traveled_Distance.png" width="500">
+<img src="images/Velocity.png" width="500">
+<img src="/images/Yaw_Angle_2.png" width="500">
 </p>
 
 ## FUTURE DEPLOYMENT
